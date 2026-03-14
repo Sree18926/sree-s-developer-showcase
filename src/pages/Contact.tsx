@@ -69,10 +69,10 @@ const Contact = () => {
             </p>
             <div className="space-y-4">
               {[
-                { icon: Mail, label: "sreepadmapriya@email.com", href: "mailto:sreepadmapriya@email.com" },
-                { icon: Linkedin, label: "LinkedIn Profile", href: "https://linkedin.com" },
-                { icon: Github, label: "GitHub Profile", href: "https://github.com" },
-                { icon: MapPin, label: "India", href: "#" },
+                { icon: Mail, label: "adirapadmapadma@gmail.com", href: "mailto:adirapadmapadma@gmail.com" },
+                { icon: Linkedin, label: "LinkedIn Profile", href: "http://linkedin.com/in/Sree Padma priya" },
+                { icon: Github, label: "GitHub Profile", href: "http://github.com/Sree18926" },
+                { icon: MapPin, label: "salem city", href: "#" },
               ].map((item) => (
                 <a
                   key={item.label}
