@@ -12,7 +12,6 @@ const Index = () => (
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.7, ease: [0.2, 0, 0, 1] }}
       >
-        <span className="badge-accent">Available for Internships</span>
         <h1 className="text-5xl md:text-7xl font-bold tracking-tighter mt-6 mb-4">
           Sree Padmapriya S
         </h1>
